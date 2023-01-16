@@ -10,6 +10,9 @@ output:
     number_sections: yes
     toc: yes
     toc_depth: 5
+  word_document:
+    toc: yes
+    toc_depth: '5'
 ---
 
 # A Little Survey
@@ -59,7 +62,7 @@ Have you ever gone to foreign countries, if so which ones, if not Where might yo
 
 ### my answer     
   
-   
+   I've been to Canada, France, Spain, and Japan.  I'd like to visit Turkey and Italy.
   
 
 
